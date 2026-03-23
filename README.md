@@ -1,4 +1,4 @@
-# Java - DevDojo ![Java](https://img.shields.io)
+# Java - DevDojo [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
 
 Este repositório contém meus estudos de Java do curso **"Maratona Java Virado no Jiraya"** do DevDojo.
 
